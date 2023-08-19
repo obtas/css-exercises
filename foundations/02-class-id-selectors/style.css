@@ -1,0 +1,23 @@
+p,
+#number3 {
+    background-color: #ffc0cb;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#number2 {
+    color: #0000ff;
+    font-size: 36px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#number3 {
+    font-size: 24px;
+}
+
+#number4 {
+    font-weight: bold;
+    color: #000000;
+    font-size: 24px;
+    background-color: #90ee90;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
